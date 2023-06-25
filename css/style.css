@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-image: url('/assets/images/pattern-background-desktop-new.svg')
+}
+
+.container {
+  border-radius: 20px;  display: flex;
+  flex-direction: column;
+  width: 375px;
+  height: 520px;  
+  background-color: #ffff;
+  margin-bottom: 2em;
+}
+
+.hero-img {
+  margin-bottom: 1.5em;
+}
+
+.hero-img img {  
+  border-radius: 10px 10px 0 0;
+  max-width: 375px;
+  width: auto;
+  }
+
+.container-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 0 40px;
+}
+
+.text {
+  margin-bottom: 1em;
+}
+
+.text h3 {
+  font-weight: 900;
+  text-align: center;
+  color: hsl(223, 47%, 23%);
+  margin-bottom: 1em;
+}
+
+.text p {  
+  text-align: center;
+  font-size: 13px;
+  color: hsl(224, 23%, 55%);
+  line-height: 1.5em;
+}
+
+.price {
+  background-color: hsl(225, 100%, 98%);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+  width: 100%;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 1em;
+}
+
+.price img {
+  margin-top: 5px;
+}
+
+.content-price {
+  margin-left: -50px;
+}
+
+.content-price span {
+  font-size: 15px;
+  color: hsl(223, 47%, 23%);
+  font-weight: 900;
+}
+
+.content-price p {
+  color: hsl(224, 23%, 55%);
+  font-size: 13px;
+}
+
+.change {
+  font-size: 12px;
+  font-weight: 900;  
+}
+
+.payment-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.payment-container a {
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 900;
+  color: hsl(224, 23%, 55%);
+}
+
+.btn {
+  cursor: pointer;
+  border: none;
+  padding: 10px;
+  font-size: 14px;
+  font-weight: 900;
+  background-color: hsl(245, 75%, 52%);
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 1.5em;
+}
+
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);  
+}

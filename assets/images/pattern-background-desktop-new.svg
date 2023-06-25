@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1440mm"
+   height="437mm"
+   viewBox="0 0 1440 437"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3-beta (cedbd6c6ff, 2023-05-28)"
+   sodipodi:docname="pattern-background-desktop-new.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.041260296"
+     inkscape:cx="-3732.4017"
+     inkscape:cy="2193.3919"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#d6e1ff;fill-opacity:1;stroke-width:0.264583"
+       id="rect1"
+       width="1432.8549"
+       height="430.76337"
+       x="8.6797113"
+       y="23.771954" />
+    <path
+       fill="#d6e1ff"
+       fill-rule="evenodd"
+       d="m -0.20776146,172.3635 c 220.24376146,87.28839 463.59841146,87.28839 730.06302146,0 266.46452,-87.288392 506.81214,-87.288392 721.04394,0 V -90.907686 H -0.20776146 Z"
+       id="path1"
+       style="fill:#c7d2ff;fill-opacity:1;stroke-width:0.870667" />
+  </g>
+</svg>
